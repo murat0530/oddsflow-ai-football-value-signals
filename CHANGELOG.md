@@ -100,7 +100,7 @@ Enhanced the multi-layer risk framework:
 
 ### v7.x — Pressure System Maturity
 
-*2026 Q1*
+*February 2026*
 
 - Pressure-based signal systems (S1 Conservative, S2 Active Trader, S3 Sniper) fully calibrated
 - Asian Handicap and Over/Under markets with improved edge detection
@@ -109,7 +109,7 @@ Enhanced the multi-layer risk framework:
 
 ### v6.x — Automated Settlement & Reporting
 
-*2026 Q1*
+*February 2026*
 
 - Automated settlement engine with full Asian Handicap rules (quarter-line split-stake)
 - Halftime and fulltime match report generation
@@ -118,7 +118,7 @@ Enhanced the multi-layer risk framework:
 
 ### v5.x — Multi-League Expansion
 
-*2025 Q4*
+*February 2026*
 
 - Expanded coverage to 7+ major European leagues and international fixtures
 - League-specific parameter tuning for pressure thresholds
@@ -127,7 +127,7 @@ Enhanced the multi-layer risk framework:
 
 ### v4.x — Risk Management Framework
 
-*2025 Q4*
+*January 2026*
 
 - Introduced multi-layer risk management (position sizing, exposure limits, drawdown protection)
 - Anomaly detection for unusual market behavior
@@ -136,7 +136,7 @@ Enhanced the multi-layer risk framework:
 
 ### v3.x — Real-Time Odds Pipeline
 
-*2025 Q3*
+*January 2026*
 
 - Built real-time odds ingestion from multiple data providers
 - Market pressure detection algorithm (foundation for Pressure Index)
