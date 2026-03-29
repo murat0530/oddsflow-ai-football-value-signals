@@ -1,3 +1,8 @@
+> **Historical Document — Oddsflow Beta v2.0 (January 2026)**
+> This document describes the architecture of an earlier version of the engine. It is preserved to show the evolution of the system. For the current v8.0 architecture, see [System Overview](SYSTEM_OVERVIEW.md).
+
+---
+
 # Oddsflow Beta: Event-Driven Quantitative Architecture
 
 ## System Abstract

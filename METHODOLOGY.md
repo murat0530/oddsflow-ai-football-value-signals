@@ -1,3 +1,8 @@
+> **Historical Document — Oddsflow Beta v2.0 (January 2026)**
+> This document describes the methodology of an earlier version of the engine. It is preserved to show how our quantitative approach has evolved. For the current v8.0 system, see [System Overview](SYSTEM_OVERVIEW.md) and [Performance](PERFORMANCE.md).
+
+---
+
 # Oddsflow Beta: Quantitative Methodology & Alpha Generation
 
 # Oddsflow Beta: Quantitative Methodology & Alpha Generation

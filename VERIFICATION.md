@@ -1,3 +1,8 @@
+> **Historical Document — Oddsflow Beta v2.0 (January 2026)**
+> This document describes verification principles from an earlier version. The core verification philosophy remains, but v8.0 now covers additional markets (1X2) and strategy systems (S1–S4.3). For the current system, see [System Overview](SYSTEM_OVERVIEW.md).
+
+---
+
 # Verification Principles — OddsFlow.ai
 
 This document defines what aspects of OddsFlow.ai outputs are publicly verifiable,

@@ -1,7 +1,9 @@
 {
   "meta": {
-    "status": "active",
-    "last_updated": "2026-01-28T00:00:00Z"
+    "engine": "OddsFlow v8.0",
+    "status": "LIVE_PRODUCTION",
+    "last_updated": "2026-03-30T00:00:00Z",
+    "note": "Live signals are published during active match windows. This file reflects the latest signal state. When no matches are in progress, the signals array may be empty."
   },
   "signals": []
 }

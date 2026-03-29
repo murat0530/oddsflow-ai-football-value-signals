@@ -1,3 +1,8 @@
+> **Historical Document — Oddsflow Beta v2.0 (January 2026)**
+> Active Trader has evolved into the **S2 Active Trader** system in v8.0, and remains the top performer for Over/Under markets (66.7% hit rate, 35.7% ROI). See [System Overview](../SYSTEM_OVERVIEW.md).
+
+---
+
 # Strategy Module: Active Trader
 
 ## Core Philosophy

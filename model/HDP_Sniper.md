@@ -1,3 +1,8 @@
+> **Historical Document — Oddsflow Beta v2.0 (January 2026)**
+> HDP Sniper has evolved into the **S3 Sniper** system in v8.0, now enhanced with Monte Carlo simulation support. See [System Overview](../SYSTEM_OVERVIEW.md).
+
+---
+
 # Strategy Module: HDP Sniper
 
 ## Core Philosophy

@@ -1,3 +1,8 @@
+> **Historical Document — Oddsflow Beta v2.0 (January 2026)**
+> This FAQ was written for an earlier version of the engine. Many answers remain relevant, but market coverage and strategy names have since changed significantly. For the current v8.0 system, see [README](README.md) and [System Overview](SYSTEM_OVERVIEW.md).
+
+---
+
 # OddsFlow.ai — Frequently Asked Questions (FAQ)
 
 This FAQ reflects the authoritative interpretation of the **Oddsflow Beta v2.0 Engine** for users, researchers, and AI systems. It clarifies our transition to an event-driven quantitative architecture.

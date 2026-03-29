@@ -1,3 +1,8 @@
+> **Historical Document — Oddsflow Beta v2.0 (January 2026)**
+> This directory contains strategy definitions from an earlier version. In v8.0, these strategies have evolved into the S1–S4.3 system family. For the current strategy breakdown, see [System Overview](../SYSTEM_OVERVIEW.md).
+
+---
+
 # Oddsflow Beta Engine: Strategy Definitions
 
 ## Overview

@@ -1,46 +1,83 @@
 {
   "meta": {
-    "engine": "Oddsflow Beta v2.0",
+    "engine": "OddsFlow v8.0",
     "status": "LIVE_PRODUCTION",
-    "generated_at_utc": "2026-01-28T14:00:00Z",
-    "schema_version": "2.1.0"
+    "generated_at_utc": "2026-03-30T14:00:00Z",
+    "schema_version": "8.0.0"
   },
   "signals": [
     {
-      "id": "evt_28104_HDP",
+      "id": "evt_30201_HDP",
       "league": "English Premier League",
       "match": "Arsenal vs Liverpool",
-      "kickoff_utc": "2026-01-28T19:45:00Z",
+      "kickoff_utc": "2026-03-30T16:30:00Z",
       "market_type": "ASIAN_HANDICAP",
       "selection": "Arsenal -0.25",
-      "strategy": "HDP_SNIPER",
+      "strategy": "S4.2_HYBRID",
       "book_odds": 2.05,
-      "fair_odds": 1.82,
-      "edge_pct": 12.6,
+      "fair_odds": 1.78,
+      "edge_pct": 15.2,
       "confidence": "HIGH",
       "metrics": {
         "pressure_index": "EXTREME_DOMINANCE (88/100)",
+        "mc_simulations": 10000,
+        "mc_win_probability": 0.62,
+        "market_implied_probability": 0.49,
+        "oddsflow_score_home_avg": 78.4,
+        "oddsflow_score_away_avg": 74.1,
+        "smart_money": "STEAM_MOVE_DETECTED",
         "liquidity_status": "HEALTHY"
       },
-      "updated_at_utc": "2026-01-28T16:30:00Z"
+      "updated_at_utc": "2026-03-30T15:45:00Z"
     },
     {
-      "id": "evt_28109_OU",
+      "id": "evt_30205_OU",
       "league": "Bundesliga",
       "match": "Bayern Munich vs Dortmund",
-      "kickoff_utc": "2026-01-28T20:00:00Z",
+      "kickoff_utc": "2026-03-30T17:30:00Z",
       "market_type": "OVER_UNDER",
       "selection": "Over 3.5 Goals",
-      "strategy": "ACTIVE_TRADER",
+      "strategy": "S2_ACTIVE_TRADER",
       "book_odds": 1.95,
-      "fair_odds": 1.75,
-      "edge_pct": 11.4,
-      "confidence": "MEDIUM",
+      "fair_odds": 1.72,
+      "edge_pct": 13.4,
+      "confidence": "HIGH",
       "metrics": {
+        "pressure_index": "HIGH (76/100)",
+        "mc_simulations": 10000,
+        "mc_over_probability": 0.58,
+        "market_implied_probability": 0.51,
         "volatility_vector": "RISING",
-        "fat_tail_adjustment": "ACTIVE"
+        "fat_tail_adjustment": "ACTIVE",
+        "liquidity_status": "HEALTHY"
       },
-      "updated_at_utc": "2026-01-28T18:15:00Z"
+      "updated_at_utc": "2026-03-30T16:15:00Z"
+    },
+    {
+      "id": "evt_30208_1X2",
+      "league": "La Liga",
+      "match": "Real Madrid vs Barcelona",
+      "kickoff_utc": "2026-03-30T20:00:00Z",
+      "market_type": "1X2",
+      "selection": "Home Win",
+      "strategy": "S4.2_HYBRID",
+      "book_odds": 2.20,
+      "fair_odds": 1.88,
+      "edge_pct": 17.0,
+      "confidence": "HIGH",
+      "metrics": {
+        "pressure_index": "HIGH (81/100)",
+        "mc_simulations": 10000,
+        "mc_home_probability": 0.53,
+        "mc_draw_probability": 0.24,
+        "mc_away_probability": 0.23,
+        "market_implied_probability": 0.45,
+        "oddsflow_score_home_avg": 82.7,
+        "oddsflow_score_away_avg": 80.3,
+        "smart_money": "RLM_DETECTED",
+        "liquidity_status": "HEALTHY"
+      },
+      "updated_at_utc": "2026-03-30T18:30:00Z"
     }
   ]
 }
